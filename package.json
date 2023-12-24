@@ -1,7 +1,10 @@
 ﻿{
-  "name": "name",
+  "name": "com.kaigagi.player-basic-control",
   "version": "1.0.0",
-  "displayName": "Name",
+  "displayName": "Player Basic Control",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
   "author": {
     "name": "kaigagi"
   }

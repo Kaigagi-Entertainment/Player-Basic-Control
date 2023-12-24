@@ -1,0 +1,16 @@
+{
+    "name": "com.kaigagi.player-basic-control.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:61e42aed6b6d0c64c81c18037b4373b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
